@@ -1,0 +1,200 @@
+2019-01-04 00:03:06.920531||meta||agents||2
+2019-01-04 00:03:06.920692||meta||treatnames||female@|male
+2019-01-04 00:03:06.921153||meta||block_id start||0
+2019-01-04 00:03:06.921234||meta||assignment||1@|0
+2019-01-04 00:03:11.846676||event||progress-marker||training-start||1||0
+2019-01-04 00:03:11.882405||event||progress-marker||training-start||0||1
+2019-01-04 00:03:37.811752||event||progress-marker||training-end||1||0
+2019-01-04 00:03:39.047303||event||progress-marker||training-end||0||1
+2019-01-04 00:03:42.817198||event||progress-marker||measurement-start||1||0
+2019-01-04 00:03:44.054669||event||progress-marker||measurement-start||0||1
+2019-01-04 00:03:54.625324||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        IBM@|URL@|Southbury, CT 06488||0||1
+2019-01-04 00:03:54.649047||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        SILA@|URL@|Shelton, CT||0||1
+2019-01-04 00:03:54.671436||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        LOCKHEED MARTIN CORPORATION@|URL@|Shelton, CT 06484||0||1
+2019-01-04 00:03:54.693166||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        Sila SG@|URL@|Shelton, CT||0||1
+2019-01-04 00:03:54.716966||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        LOCKHEED MARTIN CORPORATION@|URL@|Shelton, CT 06484||0||1
+2019-01-04 00:03:54.743652||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        Pitney Bowes@|URL@|Danbury, CT 06813||0||1
+2019-01-04 00:03:54.766067||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        SILA@|URL@|Shelton, CT||0||1
+2019-01-04 00:03:54.788099||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        Sila SG@|URL@|Shelton, CT||0||1
+2019-01-04 00:03:54.811806||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        IBM@|URL@|Southbury, CT 06488||0||1
+2019-01-04 00:03:54.833595||measurement||ad||2019-01-04 00:03:54.585210@|
+        
+        LOCKHEED MARTIN CORPORATION@|URL@|Shelton, CT 06484||0||1
+2019-01-04 00:03:54.836374||measurement||loadtime||0:00:08.779349||0||1
+2019-01-04 00:03:56.354132||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        LOCKHEED MARTIN CORPORATION@|URL@|Shelton, CT 06484||1||0
+2019-01-04 00:03:56.379219||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        LOCKHEED MARTIN CORPORATION@|URL@|Shelton, CT 06484||1||0
+2019-01-04 00:03:56.402962||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        SILA@|URL@|Shelton, CT||1||0
+2019-01-04 00:03:56.425960||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        Sila SG@|URL@|Shelton, CT||1||0
+2019-01-04 00:03:56.451040||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        IBM@|URL@|Southbury, CT 06488||1||0
+2019-01-04 00:03:56.477337||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        Pitney Bowes@|URL@|Danbury, CT 06813||1||0
+2019-01-04 00:03:56.499047||measurement||ad||2019-01-04 00:03:56.315536@|
+        Direct-to-Consumer and International@|URL@|Bristol, CT||1||0
+2019-01-04 00:03:56.524544||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        SILA@|URL@|Shelton, CT||1||0
+2019-01-04 00:03:56.552121||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        Sila SG@|URL@|Shelton, CT||1||0
+2019-01-04 00:03:56.575816||measurement||ad||2019-01-04 00:03:56.315536@|
+        
+        IBM@|URL@|Southbury, CT 06488||1||0
+2019-01-04 00:03:56.579027||measurement||loadtime||0:00:11.759506||1||0
+2019-01-04 00:04:04.599969||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        FactSet Research Systems@|URL@|New York, NY 10016 (Gramercy area)||0||1
+2019-01-04 00:04:04.624586||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Amazon.com@|URL@|New York, NY||0||1
+2019-01-04 00:04:04.647282||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Square@|URL@|New York, NY 10018 (Clinton area)||0||1
+2019-01-04 00:04:04.669559||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Grubhub@|URL@|New York, NY||0||1
+2019-01-04 00:04:04.692563||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Facebook@|URL@|New York, NY 10017 (Midtown area)||0||1
+2019-01-04 00:04:04.716781||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        RTTS@|URL@|New York, NY 10018 (Clinton area)||0||1
+2019-01-04 00:04:04.737999||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Google@|URL@|New York, NY 10011 (Chelsea area)||0||1
+2019-01-04 00:04:04.759131||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Facebook@|URL@|New York, NY 10017 (Midtown area)||0||1
+2019-01-04 00:04:04.779719||measurement||ad||2019-01-04 00:04:04.562848@|
+        
+        Insight Enterprises, Inc.@|URL@|New York, NY||0||1
+2019-01-04 00:04:04.803351||measurement||ad||2019-01-04 00:04:04.562848@|
+        Betterment LLC@|URL@|New York, NY 10013 (Tribeca area)||0||1
+2019-01-04 00:04:04.805995||measurement||loadtime||0:00:07.967438||0||1
+2019-01-04 00:04:06.751337||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Amazon.com@|URL@|New York, NY||1||0
+2019-01-04 00:04:06.774359||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        FactSet Research Systems@|URL@|New York, NY 10016 (Gramercy area)||1||0
+2019-01-04 00:04:06.795368||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Square@|URL@|New York, NY 10018 (Clinton area)||1||0
+2019-01-04 00:04:06.827767||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        RTTS@|URL@|New York, NY 10018 (Clinton area)||1||0
+2019-01-04 00:04:06.854570||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Facebook@|URL@|New York, NY 10017 (Midtown area)||1||0
+2019-01-04 00:04:06.878656||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Google@|URL@|New York, NY 10011 (Chelsea area)||1||0
+2019-01-04 00:04:06.902157||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Grubhub@|URL@|New York, NY||1||0
+2019-01-04 00:04:06.923997||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Insight Enterprises, Inc.@|URL@|New York, NY||1||0
+2019-01-04 00:04:06.945763||measurement||ad||2019-01-04 00:04:06.696842@|
+        Betterment LLC@|URL@|New York, NY 10013 (Tribeca area)||1||0
+2019-01-04 00:04:06.971410||measurement||ad||2019-01-04 00:04:06.696842@|
+        
+        Time Warner@|URL@|New York, NY||1||0
+2019-01-04 00:04:06.974066||measurement||loadtime||0:00:08.392911||1||0
+2019-01-04 00:04:14.572616||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Snowflake Computing@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.594729||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        CDK Global@|URL@|Seattle, WA 98104 (First Hill area)||0||1
+2019-01-04 00:04:14.616777||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Microsoft@|URL@|Redmond, WA||0||1
+2019-01-04 00:04:14.639423||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Quantcast@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.662519||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Google@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.686248||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Qualtrics@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.708073||measurement||ad||2019-01-04 00:04:14.532342@|
+        Skilljar@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.730089||measurement||ad||2019-01-04 00:04:14.532342@|
+        Donuts Inc@|URL@|Kirkland, WA 98033 (Highlands area)||0||1
+2019-01-04 00:04:14.750975||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        Nordstrom@|URL@|Seattle, WA||0||1
+2019-01-04 00:04:14.772305||measurement||ad||2019-01-04 00:04:14.532342@|
+        
+        zulily@|URL@|Seattle, WA 98121 (Belltown area)||0||1
+2019-01-04 00:04:14.775168||measurement||loadtime||0:00:07.967080||0||1
+2019-01-04 00:04:14.775221||event||progress-marker||measurement-end||0||1
+2019-01-04 00:04:17.565319||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        Snowflake Computing@|URL@|Seattle, WA||1||0
+2019-01-04 00:04:17.589326||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        Microsoft@|URL@|Redmond, WA||1||0
+2019-01-04 00:04:17.612326||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        Google@|URL@|Seattle, WA||1||0
+2019-01-04 00:04:17.634937||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        zulily@|URL@|Seattle, WA 98121 (Belltown area)||1||0
+2019-01-04 00:04:17.658135||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        CDK Global@|URL@|Seattle, WA 98104 (First Hill area)||1||0
+2019-01-04 00:04:17.680812||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        Quantcast@|URL@|Seattle, WA||1||0
+2019-01-04 00:04:17.702183||measurement||ad||2019-01-04 00:04:17.519192@|
+        Donuts Inc@|URL@|Kirkland, WA 98033 (Highlands area)||1||0
+2019-01-04 00:04:17.723057||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        University of Washington@|URL@|Seattle, WA||1||0
+2019-01-04 00:04:17.743909||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        BOEING@|URL@|Tukwila, WA||1||0
+2019-01-04 00:04:17.764954||measurement||ad||2019-01-04 00:04:17.519192@|
+        
+        Daimler@|URL@|Seattle, WA||1||0
+2019-01-04 00:04:17.767266||measurement||loadtime||0:00:08.791084||1||0
+2019-01-04 00:04:17.767304||event||progress-marker||measurement-end||1||0
+2019-01-04 00:04:18.694975||meta||block_id end||0
+2019-01-04 00:04:18.695327||meta||block_id start||1
+2019-01-04 00:04:18.695379||meta||assignment||0@|1
+2019-01-04 00:04:22.757098||event||progress-marker||training-start||0||0
+2019-01-04 00:04:24.643151||event||progress-marker||training-start||1||1
+2019-01-04 00:04:46.269603||event||progress-marker||training-end||1||1
+2019-01-04 00:04:47.602500||event||progress-marker||training-end||0||0
+2019-01-04 00:04:48.822220||meta||block_id end||1

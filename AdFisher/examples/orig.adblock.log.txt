@@ -1,0 +1,29 @@
+2019-01-02 12:35:03.603108||meta||agents||4
+2019-01-02 12:35:03.603138||meta||treatnames||control@|experimental
+2019-01-02 12:35:03.603237||meta||block_id start||0
+2019-01-02 12:35:03.603252||meta||assignment||3@|0@|2@|1
+2019-01-02 12:35:09.979985||event||progress-marker||training-start||2||1
+2019-01-02 12:35:09.982346||event||progress-marker||training-end||2||1
+2019-01-02 12:35:10.054398||event||progress-marker||training-start||3||0
+2019-01-02 12:35:10.054492||event||progress-marker||training-end||3||0
+2019-01-02 12:35:11.122151||event||progress-marker||training-start||0||0
+2019-01-02 12:35:11.122219||event||progress-marker||training-end||0||0
+2019-01-02 12:35:11.906640||event||progress-marker||training-start||1||1
+2019-01-02 12:35:11.906713||event||progress-marker||training-end||1||1
+2019-01-02 12:35:14.986665||event||progress-marker||measurement-start||2||1
+2019-01-02 12:35:15.057038||event||progress-marker||measurement-start||3||0
+2019-01-02 12:35:16.126816||event||progress-marker||measurement-start||0||0
+2019-01-02 12:35:16.912177||event||progress-marker||measurement-start||1||1
+2019-01-02 12:36:20.027680||error||collecting ads||Error||2||1
+2019-01-02 12:36:20.077095||error||collecting ads||Error||3||0
+2019-01-02 12:36:21.168223||error||collecting ads||Error||0||0
+2019-01-02 12:36:21.947172||error||collecting ads||Error||1||1
+2019-01-02 12:37:25.043282||error||collecting ads||Error||2||1
+2019-01-02 12:37:25.043337||event||progress-marker||measurement-end||2||1
+2019-01-02 12:37:25.099154||error||collecting ads||Error||3||0
+2019-01-02 12:37:25.099213||event||progress-marker||measurement-end||3||0
+2019-01-02 12:37:26.185582||error||collecting ads||Error||0||0
+2019-01-02 12:37:26.185637||event||progress-marker||measurement-end||0||0
+2019-01-02 12:37:26.964321||error||collecting ads||Error||1||1
+2019-01-02 12:37:26.964387||event||progress-marker||measurement-end||1||1
+2019-01-02 12:37:27.109092||meta||block_id end||0

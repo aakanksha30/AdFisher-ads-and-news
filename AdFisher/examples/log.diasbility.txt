@@ -1,0 +1,558 @@
+2018-12-31 00:08:28.910796||meta||agents||2
+2018-12-31 00:08:28.910830||meta||treatnames||control@|experimental
+2018-12-31 00:08:28.910905||meta||block_id start||0
+2018-12-31 00:08:28.910918||meta||assignment||0@|1
+2018-12-31 00:08:33.378711||event||progress-marker||training-start||1||1
+2018-12-31 00:08:35.006404||event||progress-marker||training-start||0||0
+2018-12-31 00:08:35.006475||event||progress-marker||training-end||0||0
+2018-12-31 00:09:02.000620||treatment||visit website||http://disabilityscoop.com||1||1
+2018-12-31 00:09:24.808927||treatment||visit website||http://sightsavers.org||1||1
+2018-12-31 00:10:02.077118||treatment||visit website||http://mobilityworks.com||1||1
+2018-12-31 00:10:42.124337||error||website timeout||http://ilsau.com||1||1
+2018-12-31 00:11:20.091727||treatment||visit website||http://hearinglikeme.com||1||1
+2018-12-31 00:11:20.091873||event||progress-marker||training-end||1||1
+2018-12-31 00:11:20.145174||event||progress-marker||measurement-start||0||0
+2018-12-31 00:11:25.098109||event||progress-marker||measurement-start||1||1
+2018-12-31 00:11:55.535869||measurement||ad||2018-12-31 00:11:55.471869@|Truck Driver
+@|Walmart
+                                    
+
+                                    @|Harrisburg, PA||1||1
+2018-12-31 00:11:55.596620||measurement||ad||2018-12-31 00:11:55.471869@|Distribution Center Fulfillment Associate
+@|PetSmart
+                                    
+
+                                    @|Sun Valley, NV||1||1
+2018-12-31 00:11:55.635891||measurement||ad||2018-12-31 00:11:55.471869@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Easton, PA||1||1
+2018-12-31 00:11:55.687886||measurement||ad||2018-12-31 00:11:55.471869@|Registered Nurse - Multiple Opportunities @ UPMC Altoona
+@|UPMC
+                                    
+
+                                    @|Altoona, PA||1||1
+2018-12-31 00:11:55.734587||measurement||ad||2018-12-31 00:11:55.471869@|Technical Support Rep.
+@|Alorica
+                                    
+
+                                    @|Pittsburgh, PA||1||1
+2018-12-31 00:11:55.776724||measurement||ad||2018-12-31 00:11:55.471869@|Associate OSP Engineer
+@|CenturyLink
+                                    
+
+                                    @|New York, NY||1||1
+2018-12-31 00:11:55.819201||measurement||ad||2018-12-31 00:11:55.471869@|Entry Level: Become an Inside Sales Professional - Littleton
+@|DISH
+                                    
+
+                                    @|Sheridan, CO||1||1
+2018-12-31 00:11:55.861500||measurement||ad||2018-12-31 00:11:55.471869@|Commercial Truck Driver CDL - $2500 Bonus
+@|Republic Services
+                                    
+
+                                    @|Frederick, MD||1||1
+2018-12-31 00:11:55.900338||measurement||ad||2018-12-31 00:11:55.471869@|Package Handler- Warehouse
+@|FedEx Ground PH US
+                                    
+
+                                    @|Shawnee, KS||1||1
+2018-12-31 00:11:55.934304||measurement||ad||2018-12-31 00:11:55.471869@|Software Engineer Manager - Reliability Engineer
+@|The Home Depot
+                                    
+
+                                    @|Austin, TX||1||1
+2018-12-31 00:11:55.971050||measurement||ad||2018-12-31 00:11:55.471869@|Truck Driver – CDL Class A/Hazmat/No Touch Freight – Penske Logistics
+@|Penske
+                                    
+
+                                    @|East Chicago, IN||1||1
+2018-12-31 00:11:56.010779||measurement||ad||2018-12-31 00:11:55.471869@|Travel Registered Nurse RN Progressive Care PCU
+@|OneStaff Medical
+                                    
+
+                                    @|ORANGEBURG, SC||1||1
+2018-12-31 00:11:56.048988||measurement||ad||2018-12-31 00:11:55.471869@|Delivery Driver
+@|Pizza Hut
+                                    
+
+                                    @|Liberty, MO||1||1
+2018-12-31 00:11:56.089284||measurement||ad||2018-12-31 00:11:55.471869@|Registered Nurse Behavioral Health-PT Days
+@|Guthrie Health
+                                    
+
+                                    @|Sayre, PA||1||1
+2018-12-31 00:11:56.130812||measurement||ad||2018-12-31 00:11:55.471869@|Automotive Technician - Chanhassen, MN
+@|VIOC Corp
+                                    
+
+                                    @|Chanhassen, MN||1||1
+2018-12-31 00:11:56.168777||measurement||ad||2018-12-31 00:11:55.471869@|Home Health Registered Nurse
+@|Geisinger
+                                    
+
+                                    @|Danville, PA||1||1
+2018-12-31 00:11:56.207380||measurement||ad||2018-12-31 00:11:55.471869@|Marketing Manager
+@|Dynex Technologies
+                                    
+
+                                    @|Chantilly, VA||1||1
+2018-12-31 00:11:56.248088||measurement||ad||2018-12-31 00:11:55.471869@|Insurance Verification Specialist I
+@|Baylor Scott White Health
+                                    
+
+                                    @|Dallas, TX||1||1
+2018-12-31 00:11:56.284394||measurement||ad||2018-12-31 00:11:55.471869@|Local Baltimore Port Work- HOME DAILY!!
+@|AS Kinard
+                                    
+
+                                    @|Towson, MD||1||1
+2018-12-31 00:11:56.322063||measurement||ad||2018-12-31 00:11:55.471869@|Application Analyst, Vice President
+@|MUFG
+                                    
+
+                                    @|Monterey Park, CA||1||1
+2018-12-31 00:11:56.363028||measurement||ad||2018-12-31 00:11:55.471869@|Sales Account Manager - Office Based
+@|Univar
+                                    
+
+                                    @|Kent, WA||1||1
+2018-12-31 00:11:56.397768||measurement||ad||2018-12-31 00:11:55.471869@|Truck Drivers - Experienced CDL Class A Drivers - Dedicated Route
+@|C.R. England
+                                    
+
+                                    @|Garnavillo, IA||1||1
+2018-12-31 00:11:56.434134||measurement||ad||2018-12-31 00:11:55.471869@|Store Manager in Training
+@|CVS Health
+                                    
+
+                                    @|Greenwood, IN||1||1
+2018-12-31 00:11:56.471855||measurement||ad||2018-12-31 00:11:55.471869@|Rehab Therapy Tech/Steadman Hawkins Physical Therapy/ FT/Day
+@|UCHealth
+                                    
+
+                                    @|Greenwood Village, CO||1||1
+2018-12-31 00:11:56.509174||measurement||ad||2018-12-31 00:11:55.471869@|RN - 2S Med Surg - Kettering Hospital
+@|Kettering Health Network
+                                    
+
+                                    @|Kettering, OH||1||1
+2018-12-31 00:11:56.509269||measurement||loadtime||0:00:29.409235||1||1
+2018-12-31 00:12:05.054756||measurement||ad||2018-12-31 00:12:04.970827@|Truck Driver
+@|Walmart
+                                    
+
+                                    @|Harrisburg, PA||1||1
+2018-12-31 00:12:05.158062||measurement||ad||2018-12-31 00:12:04.970827@|Distribution Center Fulfillment Associate
+@|PetSmart
+                                    
+
+                                    @|Sun Valley, NV||1||1
+2018-12-31 00:12:05.221444||measurement||ad||2018-12-31 00:12:04.970827@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Easton, PA||1||1
+2018-12-31 00:12:05.286794||measurement||ad||2018-12-31 00:12:04.970827@|Registered Nurse - Multiple Opportunities @ UPMC Altoona
+@|UPMC
+                                    
+
+                                    @|Altoona, PA||1||1
+2018-12-31 00:12:05.348549||measurement||ad||2018-12-31 00:12:04.970827@|Technical Support Rep.
+@|Alorica
+                                    
+
+                                    @|Pittsburgh, PA||1||1
+2018-12-31 00:12:05.401283||measurement||ad||2018-12-31 00:12:04.970827@|Associate OSP Engineer
+@|CenturyLink
+                                    
+
+                                    @|New York, NY||1||1
+2018-12-31 00:12:05.457203||measurement||ad||2018-12-31 00:12:04.970827@|Entry Level: Become an Inside Sales Professional - Littleton
+@|DISH
+                                    
+
+                                    @|Sheridan, CO||1||1
+2018-12-31 00:12:05.498943||measurement||ad||2018-12-31 00:12:04.970827@|Commercial Truck Driver CDL - $2500 Bonus
+@|Republic Services
+                                    
+
+                                    @|Frederick, MD||1||1
+2018-12-31 00:12:05.549813||measurement||ad||2018-12-31 00:12:04.970827@|Package Handler- Warehouse
+@|FedEx Ground PH US
+                                    
+
+                                    @|Shawnee, KS||1||1
+2018-12-31 00:12:05.589889||measurement||ad||2018-12-31 00:12:04.970827@|Software Engineer Manager - Reliability Engineer
+@|The Home Depot
+                                    
+
+                                    @|Austin, TX||1||1
+2018-12-31 00:12:05.629890||measurement||ad||2018-12-31 00:12:04.970827@|Truck Driver – CDL Class A/Hazmat/No Touch Freight – Penske Logistics
+@|Penske
+                                    
+
+                                    @|East Chicago, IN||1||1
+2018-12-31 00:12:05.687024||measurement||ad||2018-12-31 00:12:04.970827@|Travel Registered Nurse RN Progressive Care PCU
+@|OneStaff Medical
+                                    
+
+                                    @|ORANGEBURG, SC||1||1
+2018-12-31 00:12:05.722688||measurement||ad||2018-12-31 00:12:04.970827@|Delivery Driver
+@|Pizza Hut
+                                    
+
+                                    @|Liberty, MO||1||1
+2018-12-31 00:12:05.773589||measurement||ad||2018-12-31 00:12:04.970827@|Registered Nurse Behavioral Health-PT Days
+@|Guthrie Health
+                                    
+
+                                    @|Sayre, PA||1||1
+2018-12-31 00:12:05.809737||measurement||ad||2018-12-31 00:12:04.970827@|Automotive Technician - Chanhassen, MN
+@|VIOC Corp
+                                    
+
+                                    @|Chanhassen, MN||1||1
+2018-12-31 00:12:05.854123||measurement||ad||2018-12-31 00:12:04.970827@|Home Health Registered Nurse
+@|Geisinger
+                                    
+
+                                    @|Danville, PA||1||1
+2018-12-31 00:12:05.920002||measurement||ad||2018-12-31 00:12:04.970827@|Marketing Manager
+@|Dynex Technologies
+                                    
+
+                                    @|Chantilly, VA||1||1
+2018-12-31 00:12:05.954852||measurement||ad||2018-12-31 00:12:04.970827@|Insurance Verification Specialist I
+@|Baylor Scott White Health
+                                    
+
+                                    @|Dallas, TX||1||1
+2018-12-31 00:12:05.991137||measurement||ad||2018-12-31 00:12:04.970827@|Local Baltimore Port Work- HOME DAILY!!
+@|AS Kinard
+                                    
+
+                                    @|Towson, MD||1||1
+2018-12-31 00:12:06.038834||measurement||ad||2018-12-31 00:12:04.970827@|Application Analyst, Vice President
+@|MUFG
+                                    
+
+                                    @|Monterey Park, CA||1||1
+2018-12-31 00:12:06.074221||measurement||ad||2018-12-31 00:12:04.970827@|Sales Account Manager - Office Based
+@|Univar
+                                    
+
+                                    @|Kent, WA||1||1
+2018-12-31 00:12:06.111975||measurement||ad||2018-12-31 00:12:04.970827@|Truck Drivers - Experienced CDL Class A Drivers - Dedicated Route
+@|C.R. England
+                                    
+
+                                    @|Garnavillo, IA||1||1
+2018-12-31 00:12:06.165831||measurement||ad||2018-12-31 00:12:04.970827@|Store Manager in Training
+@|CVS Health
+                                    
+
+                                    @|Greenwood, IN||1||1
+2018-12-31 00:12:06.224117||measurement||ad||2018-12-31 00:12:04.970827@|Rehab Therapy Tech/Steadman Hawkins Physical Therapy/ FT/Day
+@|UCHealth
+                                    
+
+                                    @|Greenwood Village, CO||1||1
+2018-12-31 00:12:06.266234||measurement||ad||2018-12-31 00:12:04.970827@|RN - 2S Med Surg - Kettering Hospital
+@|Kettering Health Network
+                                    
+
+                                    @|Kettering, OH||1||1
+2018-12-31 00:12:06.266297||measurement||loadtime||0:00:07.754931||1||1
+2018-12-31 00:12:06.266328||event||progress-marker||measurement-end||1||1
+2018-12-31 00:12:07.841837||measurement||ad||2018-12-31 00:12:07.757063@|Truck Driver
+@|Walmart
+                                    
+
+                                    @|Harrisburg, PA||0||0
+2018-12-31 00:12:07.889905||measurement||ad||2018-12-31 00:12:07.757063@|Distribution Center Fulfillment Associate
+@|PetSmart
+                                    
+
+                                    @|Sun Valley, NV||0||0
+2018-12-31 00:12:07.936213||measurement||ad||2018-12-31 00:12:07.757063@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Easton, PA||0||0
+2018-12-31 00:12:08.038799||measurement||ad||2018-12-31 00:12:07.757063@|Registered Nurse - Multiple Opportunities @ UPMC Altoona
+@|UPMC
+                                    
+
+                                    @|Altoona, PA||0||0
+2018-12-31 00:12:08.079577||measurement||ad||2018-12-31 00:12:07.757063@|Technical Support Rep.
+@|Alorica
+                                    
+
+                                    @|Pittsburgh, PA||0||0
+2018-12-31 00:12:08.141477||measurement||ad||2018-12-31 00:12:07.757063@|Associate OSP Engineer
+@|CenturyLink
+                                    
+
+                                    @|New York, NY||0||0
+2018-12-31 00:12:08.184232||measurement||ad||2018-12-31 00:12:07.757063@|Entry Level: Become an Inside Sales Professional - Littleton
+@|DISH
+                                    
+
+                                    @|Sheridan, CO||0||0
+2018-12-31 00:12:08.223243||measurement||ad||2018-12-31 00:12:07.757063@|Commercial Truck Driver CDL - $2500 Bonus
+@|Republic Services
+                                    
+
+                                    @|Frederick, MD||0||0
+2018-12-31 00:12:08.258325||measurement||ad||2018-12-31 00:12:07.757063@|Package Handler- Warehouse
+@|FedEx Ground PH US
+                                    
+
+                                    @|Shawnee, KS||0||0
+2018-12-31 00:12:08.292344||measurement||ad||2018-12-31 00:12:07.757063@|Software Engineer Manager - Reliability Engineer
+@|The Home Depot
+                                    
+
+                                    @|Austin, TX||0||0
+2018-12-31 00:12:08.326217||measurement||ad||2018-12-31 00:12:07.757063@|Truck Driver – CDL Class A/Hazmat/No Touch Freight – Penske Logistics
+@|Penske
+                                    
+
+                                    @|East Chicago, IN||0||0
+2018-12-31 00:12:08.366200||measurement||ad||2018-12-31 00:12:07.757063@|Travel Registered Nurse RN Progressive Care PCU
+@|OneStaff Medical
+                                    
+
+                                    @|ORANGEBURG, SC||0||0
+2018-12-31 00:12:08.399901||measurement||ad||2018-12-31 00:12:07.757063@|Delivery Driver
+@|Pizza Hut
+                                    
+
+                                    @|Liberty, MO||0||0
+2018-12-31 00:12:08.434967||measurement||ad||2018-12-31 00:12:07.757063@|Registered Nurse Behavioral Health-PT Days
+@|Guthrie Health
+                                    
+
+                                    @|Sayre, PA||0||0
+2018-12-31 00:12:08.470648||measurement||ad||2018-12-31 00:12:07.757063@|Automotive Technician - Chanhassen, MN
+@|VIOC Corp
+                                    
+
+                                    @|Chanhassen, MN||0||0
+2018-12-31 00:12:08.508680||measurement||ad||2018-12-31 00:12:07.757063@|Home Health Registered Nurse
+@|Geisinger
+                                    
+
+                                    @|Danville, PA||0||0
+2018-12-31 00:12:08.545950||measurement||ad||2018-12-31 00:12:07.757063@|Marketing Manager
+@|Dynex Technologies
+                                    
+
+                                    @|Chantilly, VA||0||0
+2018-12-31 00:12:08.584790||measurement||ad||2018-12-31 00:12:07.757063@|Insurance Verification Specialist I
+@|Baylor Scott White Health
+                                    
+
+                                    @|Dallas, TX||0||0
+2018-12-31 00:12:08.619049||measurement||ad||2018-12-31 00:12:07.757063@|Local Baltimore Port Work- HOME DAILY!!
+@|AS Kinard
+                                    
+
+                                    @|Towson, MD||0||0
+2018-12-31 00:12:08.652164||measurement||ad||2018-12-31 00:12:07.757063@|Application Analyst, Vice President
+@|MUFG
+                                    
+
+                                    @|Monterey Park, CA||0||0
+2018-12-31 00:12:08.697388||measurement||ad||2018-12-31 00:12:07.757063@|Sales Account Manager - Office Based
+@|Univar
+                                    
+
+                                    @|Kent, WA||0||0
+2018-12-31 00:12:08.732042||measurement||ad||2018-12-31 00:12:07.757063@|Truck Drivers - Experienced CDL Class A Drivers - Dedicated Route
+@|C.R. England
+                                    
+
+                                    @|Garnavillo, IA||0||0
+2018-12-31 00:12:08.770047||measurement||ad||2018-12-31 00:12:07.757063@|Store Manager in Training
+@|CVS Health
+                                    
+
+                                    @|Greenwood, IN||0||0
+2018-12-31 00:12:08.803961||measurement||ad||2018-12-31 00:12:07.757063@|Rehab Therapy Tech/Steadman Hawkins Physical Therapy/ FT/Day
+@|UCHealth
+                                    
+
+                                    @|Greenwood Village, CO||0||0
+2018-12-31 00:12:08.838189||measurement||ad||2018-12-31 00:12:07.757063@|RN - 2S Med Surg - Kettering Hospital
+@|Kettering Health Network
+                                    
+
+                                    @|Kettering, OH||0||0
+2018-12-31 00:12:08.838267||measurement||loadtime||0:00:46.690954||0||0
+2018-12-31 00:12:16.517865||measurement||ad||2018-12-31 00:12:16.343262@|Truck Driver
+@|Walmart
+                                    
+
+                                    @|Harrisburg, PA||0||0
+2018-12-31 00:12:16.573617||measurement||ad||2018-12-31 00:12:16.343262@|Distribution Center Fulfillment Associate
+@|PetSmart
+                                    
+
+                                    @|Sun Valley, NV||0||0
+2018-12-31 00:12:16.622643||measurement||ad||2018-12-31 00:12:16.343262@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Easton, PA||0||0
+2018-12-31 00:12:16.674844||measurement||ad||2018-12-31 00:12:16.343262@|Registered Nurse - Multiple Opportunities @ UPMC Altoona
+@|UPMC
+                                    
+
+                                    @|Altoona, PA||0||0
+2018-12-31 00:12:16.712999||measurement||ad||2018-12-31 00:12:16.343262@|Technical Support Rep.
+@|Alorica
+                                    
+
+                                    @|Pittsburgh, PA||0||0
+2018-12-31 00:12:16.759753||measurement||ad||2018-12-31 00:12:16.343262@|Associate OSP Engineer
+@|CenturyLink
+                                    
+
+                                    @|New York, NY||0||0
+2018-12-31 00:12:16.799032||measurement||ad||2018-12-31 00:12:16.343262@|Entry Level: Become an Inside Sales Professional - Littleton
+@|DISH
+                                    
+
+                                    @|Sheridan, CO||0||0
+2018-12-31 00:12:16.837893||measurement||ad||2018-12-31 00:12:16.343262@|Commercial Truck Driver CDL - $2500 Bonus
+@|Republic Services
+                                    
+
+                                    @|Frederick, MD||0||0
+2018-12-31 00:12:16.882627||measurement||ad||2018-12-31 00:12:16.343262@|Package Handler- Warehouse
+@|FedEx Ground PH US
+                                    
+
+                                    @|Shawnee, KS||0||0
+2018-12-31 00:12:16.919730||measurement||ad||2018-12-31 00:12:16.343262@|Software Engineer Manager - Reliability Engineer
+@|The Home Depot
+                                    
+
+                                    @|Austin, TX||0||0
+2018-12-31 00:12:16.953428||measurement||ad||2018-12-31 00:12:16.343262@|Truck Driver – CDL Class A/Hazmat/No Touch Freight – Penske Logistics
+@|Penske
+                                    
+
+                                    @|East Chicago, IN||0||0
+2018-12-31 00:12:16.997372||measurement||ad||2018-12-31 00:12:16.343262@|Travel Registered Nurse RN Progressive Care PCU
+@|OneStaff Medical
+                                    
+
+                                    @|ORANGEBURG, SC||0||0
+2018-12-31 00:12:17.029673||measurement||ad||2018-12-31 00:12:16.343262@|Delivery Driver
+@|Pizza Hut
+                                    
+
+                                    @|Liberty, MO||0||0
+2018-12-31 00:12:17.063358||measurement||ad||2018-12-31 00:12:16.343262@|Registered Nurse Behavioral Health-PT Days
+@|Guthrie Health
+                                    
+
+                                    @|Sayre, PA||0||0
+2018-12-31 00:12:17.111551||measurement||ad||2018-12-31 00:12:16.343262@|Automotive Technician - Chanhassen, MN
+@|VIOC Corp
+                                    
+
+                                    @|Chanhassen, MN||0||0
+2018-12-31 00:12:17.151065||measurement||ad||2018-12-31 00:12:16.343262@|Home Health Registered Nurse
+@|Geisinger
+                                    
+
+                                    @|Danville, PA||0||0
+2018-12-31 00:12:17.185123||measurement||ad||2018-12-31 00:12:16.343262@|Marketing Manager
+@|Dynex Technologies
+                                    
+
+                                    @|Chantilly, VA||0||0
+2018-12-31 00:12:17.221968||measurement||ad||2018-12-31 00:12:16.343262@|Insurance Verification Specialist I
+@|Baylor Scott White Health
+                                    
+
+                                    @|Dallas, TX||0||0
+2018-12-31 00:12:17.255291||measurement||ad||2018-12-31 00:12:16.343262@|Local Baltimore Port Work- HOME DAILY!!
+@|AS Kinard
+                                    
+
+                                    @|Towson, MD||0||0
+2018-12-31 00:12:17.289924||measurement||ad||2018-12-31 00:12:16.343262@|Application Analyst, Vice President
+@|MUFG
+                                    
+
+                                    @|Monterey Park, CA||0||0
+2018-12-31 00:12:17.333995||measurement||ad||2018-12-31 00:12:16.343262@|Sales Account Manager - Office Based
+@|Univar
+                                    
+
+                                    @|Kent, WA||0||0
+2018-12-31 00:12:17.378605||measurement||ad||2018-12-31 00:12:16.343262@|Truck Drivers - Experienced CDL Class A Drivers - Dedicated Route
+@|C.R. England
+                                    
+
+                                    @|Garnavillo, IA||0||0
+2018-12-31 00:12:17.414406||measurement||ad||2018-12-31 00:12:16.343262@|Store Manager in Training
+@|CVS Health
+                                    
+
+                                    @|Greenwood, IN||0||0
+2018-12-31 00:12:17.449505||measurement||ad||2018-12-31 00:12:16.343262@|Rehab Therapy Tech/Steadman Hawkins Physical Therapy/ FT/Day
+@|UCHealth
+                                    
+
+                                    @|Greenwood Village, CO||0||0
+2018-12-31 00:12:17.484328||measurement||ad||2018-12-31 00:12:16.343262@|RN - 2S Med Surg - Kettering Hospital
+@|Kettering Health Network
+                                    
+
+                                    @|Kettering, OH||0||0
+2018-12-31 00:12:17.484405||measurement||loadtime||0:00:06.644651||0||0
+2018-12-31 00:12:17.484433||event||progress-marker||measurement-end||0||0
+2018-12-31 00:12:22.340107||meta||block_id end||0
+2018-12-31 00:12:22.340766||meta||block_id start||1
+2018-12-31 00:12:22.340853||meta||assignment||1@|0
+2018-12-31 00:12:28.273381||event||progress-marker||training-start||0||1
+2018-12-31 00:12:28.458785||event||progress-marker||training-start||1||0
+2018-12-31 00:12:28.458856||event||progress-marker||training-end||1||0
+2018-12-31 00:12:54.596219||treatment||visit website||http://disabilityscoop.com||0||1
+2018-12-31 00:13:11.851991||treatment||visit website||http://sightsavers.org||0||1
+2018-12-31 00:13:42.460719||treatment||visit website||http://mobilityworks.com||0||1
+2018-12-31 00:14:20.179705||treatment||visit website||http://ilsau.com||0||1
+2018-12-31 00:14:57.564273||treatment||visit website||http://hearinglikeme.com||0||1
+2018-12-31 00:14:57.564619||event||progress-marker||training-end||0||1
+2018-12-31 00:14:58.471499||meta||block_id end||1
+2018-12-31 00:14:58.471883||meta||block_id start||2
+2018-12-31 00:14:58.471952||meta||assignment||0@|1
+2018-12-31 00:15:03.857061||event||progress-marker||training-start||1||1
+2018-12-31 00:15:03.876160||event||progress-marker||training-start||0||0
+2018-12-31 00:15:03.876235||event||progress-marker||training-end||0||0
+2018-12-31 00:15:35.396956||treatment||visit website||http://disabilityscoop.com||1||1
+2018-12-31 00:15:56.263912||treatment||visit website||http://sightsavers.org||1||1
+2018-12-31 00:16:29.592867||treatment||visit website||http://mobilityworks.com||1||1
+2018-12-31 00:17:07.211775||treatment||visit website||http://ilsau.com||1||1
+2018-12-31 00:17:44.652001||treatment||visit website||http://hearinglikeme.com||1||1
+2018-12-31 00:17:44.652375||event||progress-marker||training-end||1||1
+2018-12-31 00:17:45.515882||meta||block_id end||2
+2018-12-31 00:17:45.516774||meta||block_id start||3
+2018-12-31 00:17:45.516895||meta||assignment||0@|1
+2018-12-31 00:17:50.745817||event||progress-marker||training-start||1||1
+2018-12-31 00:17:50.752263||event||progress-marker||training-start||0||0
+2018-12-31 00:17:50.752356||event||progress-marker||training-end||0||0
+2018-12-31 00:18:21.143965||treatment||visit website||http://disabilityscoop.com||1||1
+2018-12-31 00:18:39.975734||treatment||visit website||http://sightsavers.org||1||1
+2018-12-31 00:19:15.465198||treatment||visit website||http://mobilityworks.com||1||1
+2018-12-31 00:19:47.928637||treatment||visit website||http://ilsau.com||1||1
+2018-12-31 00:20:30.411747||treatment||visit website||http://hearinglikeme.com||1||1
+2018-12-31 00:20:30.411932||event||progress-marker||training-end||1||1
+2018-12-31 00:20:31.370060||meta||block_id end||3

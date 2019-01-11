@@ -1,0 +1,39 @@
+2019-01-03 10:56:27.008873||meta||agents||4
+2019-01-03 10:56:27.009051||meta||treatnames||control@|experimental
+2019-01-03 10:56:27.009569||meta||block_id start||0
+2019-01-03 10:56:27.009650||meta||assignment||2@|0@|3@|1
+2019-01-03 10:56:34.939164||event||progress-marker||training-start||3||1
+2019-01-03 10:56:35.312455||event||progress-marker||training-start||2||0
+2019-01-03 10:56:35.312530||event||progress-marker||training-end||2||0
+2019-01-03 10:56:35.628322||event||progress-marker||training-start||1||1
+2019-01-03 10:56:35.699051||event||progress-marker||training-start||0||0
+2019-01-03 10:56:35.699145||event||progress-marker||training-end||0||0
+2019-01-03 10:57:15.019607||error||website timeout||http://blackamericaweb.com||3||1
+2019-01-03 10:57:15.657411||error||website timeout||http://blackamericaweb.com||1||1
+2019-01-03 10:57:55.073762||error||website timeout||http://steveharvey.com||3||1
+2019-01-03 10:57:55.713725||error||website timeout||http://steveharvey.com||1||1
+2019-01-03 10:58:35.143546||error||website timeout||http://essence.com||3||1
+2019-01-03 10:58:35.772760||error||website timeout||http://essence.com||1||1
+2019-01-03 10:58:51.606826||treatment||visit website||http://blackpeoplemeet.com||3||1
+2019-01-03 10:58:55.943129||treatment||visit website||http://blackpeoplemeet.com||1||1
+2019-01-03 10:59:31.650660||error||website timeout||http://bet.com||3||1
+2019-01-03 10:59:35.964200||error||website timeout||http://bet.com||1||1
+2019-01-03 11:00:08.478726||treatment||visit website||http://therisinghollywood.com||3||1
+2019-01-03 11:00:12.508367||treatment||visit website||http://therisinghollywood.com||1||1
+2019-01-03 11:00:48.521434||error||website timeout||http://bossip.com||3||1
+2019-01-03 11:00:52.528305||error||website timeout||http://bossip.com||1||1
+2019-01-03 11:01:28.570673||error||website timeout||http://jamaicaobserver.com||3||1
+2019-01-03 11:01:32.554200||error||website timeout||http://jamaicaobserver.com||1||1
+2019-01-03 11:02:08.616292||error||website timeout||http://ebony.com||3||1
+2019-01-03 11:02:12.603488||error||website timeout||http://ebony.com||1||1
+2019-01-03 11:02:19.335367||treatment||visit website||http://uptownmagazine.com||3||1
+2019-01-03 11:02:22.409587||treatment||visit website||http://uptownmagazine.com||1||1
+2019-01-03 11:02:31.078475||treatment||visit website||http://blackcrush.com||3||1
+2019-01-03 11:02:31.078574||event||progress-marker||training-end||3||1
+2019-01-03 11:02:35.631904||treatment||visit website||http://blackcrush.com||1||1
+2019-01-03 11:02:35.632354||event||progress-marker||training-end||1||1
+2019-01-03 11:02:35.996964||event||progress-marker||measurement-start||0||0
+2019-01-03 11:02:36.082873||event||progress-marker||measurement-start||3||1
+2019-01-03 11:02:40.624311||event||progress-marker||measurement-start||2||0
+2019-01-03 11:02:40.639709||event||progress-marker||measurement-start||1||1
+2019-01-03 11:02:40.940407||meta||block_id end||0

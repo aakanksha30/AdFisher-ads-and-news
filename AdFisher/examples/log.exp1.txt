@@ -1,0 +1,274 @@
+2019-01-03 23:08:23.555183||meta||agents||2
+2019-01-03 23:08:23.555307||meta||treatnames||control@|experimental
+2019-01-03 23:08:23.555682||meta||block_id start||0
+2019-01-03 23:08:23.555763||meta||assignment||1@|0
+2019-01-03 23:08:28.510222||event||progress-marker||training-start||1||0
+2019-01-03 23:08:28.510318||event||progress-marker||training-end||1||0
+2019-01-03 23:08:28.662010||event||progress-marker||training-start||0||1
+2019-01-03 23:08:28.662078||event||progress-marker||training-end||0||1
+2019-01-03 23:08:33.515955||event||progress-marker||measurement-start||1||0
+2019-01-03 23:08:33.665424||event||progress-marker||measurement-start||0||1
+2019-01-03 23:09:38.592573||error||collecting ads||Error||1||0
+2019-01-03 23:09:38.730310||error||collecting ads||Error||0||1
+2019-01-03 23:09:49.383656||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Boston, MA||0||1
+2019-01-03 23:09:49.449573||measurement||ad||2019-01-03 23:09:49.309385@|Registered Nurse - RN Sign on Bonus Available
+@|HCR ManorCare
+                                    
+
+                                    @|Sarasota, FL||0||1
+2019-01-03 23:09:49.515956||measurement||ad||2019-01-03 23:09:49.309385@|RN, Registered Nurse Charge Days, Full Time
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||0||1
+2019-01-03 23:09:49.561646||measurement||ad||2019-01-03 23:09:49.309385@|Shipt Shopper
+@|Shipt
+                                    
+
+                                    @|Mansfield, OH||0||1
+2019-01-03 23:09:49.607983||measurement||ad||2019-01-03 23:09:49.309385@|PHYSICIAN - Internal Medicine Denver Metro Area
+@|Centura Health
+                                    
+
+                                    @|CENTENNIAL, CO||0||1
+2019-01-03 23:09:49.642229||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Westford, MA||0||1
+2019-01-03 23:09:49.677328||measurement||ad||2019-01-03 23:09:49.309385@|Occupational Therapist / OT - PRN
+@|HCR ManorCare
+                                    
+
+                                    @|Marion, OH||0||1
+2019-01-03 23:09:49.742313||measurement||ad||2019-01-03 23:09:49.309385@|Nurse Practitioner - Health Learning Center
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||0||1
+2019-01-03 23:09:49.779584||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Wellfleet, MA||0||1
+2019-01-03 23:09:49.829039||measurement||ad||2019-01-03 23:09:49.309385@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Bethlehem, PA||0||1
+2019-01-03 23:09:49.866821||measurement||ad||2019-01-03 23:09:49.309385@|Physician - Maternal Fetal Medicine
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||0||1
+2019-01-03 23:09:49.903955||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Everett, WA||0||1
+2019-01-03 23:09:49.955136||measurement||ad||2019-01-03 23:09:49.309385@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||0||1
+2019-01-03 23:09:49.993618||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Freetown, MA||0||1
+2019-01-03 23:09:50.051872||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Essex, MA||0||1
+2019-01-03 23:09:50.109725||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Concord, CA||0||1
+2019-01-03 23:09:50.404239||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Boston, MA||1||0
+2019-01-03 23:09:50.444717||measurement||ad||2019-01-03 23:09:50.328795@|Registered Nurse - RN Sign on Bonus Available
+@|HCR ManorCare
+                                    
+
+                                    @|Sarasota, FL||1||0
+2019-01-03 23:09:50.483724||measurement||ad||2019-01-03 23:09:50.328795@|RN, Registered Nurse Charge Days, Full Time
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||1||0
+2019-01-03 23:09:50.526042||measurement||ad||2019-01-03 23:09:50.328795@|Shipt Shopper
+@|Shipt
+                                    
+
+                                    @|Mansfield, OH||1||0
+2019-01-03 23:09:50.561583||measurement||ad||2019-01-03 23:09:50.328795@|PHYSICIAN - Internal Medicine Denver Metro Area
+@|Centura Health
+                                    
+
+                                    @|CENTENNIAL, CO||1||0
+2019-01-03 23:09:50.593131||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Westford, MA||1||0
+2019-01-03 23:09:50.627396||measurement||ad||2019-01-03 23:09:50.328795@|Occupational Therapist / OT - PRN
+@|HCR ManorCare
+                                    
+
+                                    @|Marion, OH||1||0
+2019-01-03 23:09:50.663075||measurement||ad||2019-01-03 23:09:50.328795@|Nurse Practitioner - Health Learning Center
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||1||0
+2019-01-03 23:09:50.702508||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Wellfleet, MA||1||0
+2019-01-03 23:09:50.748649||measurement||ad||2019-01-03 23:09:50.328795@|RN - Registered Nurse
+@|HCR ManorCare
+                                    
+
+                                    @|Bethlehem, PA||1||0
+2019-01-03 23:09:50.782393||measurement||ad||2019-01-03 23:09:50.328795@|Physician - Maternal Fetal Medicine
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||1||0
+2019-01-03 23:09:50.854608||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Everett, WA||1||0
+2019-01-03 23:09:50.898781||measurement||ad||2019-01-03 23:09:50.328795@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||1||0
+2019-01-03 23:09:50.949911||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Freetown, MA||1||0
+2019-01-03 23:09:50.989064||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Essex, MA||1||0
+2019-01-03 23:09:51.032099||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Concord, CA||1||0
+2019-01-03 23:09:51.068061||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Maynard, MA||1||0
+2019-01-03 23:09:51.135142||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Seekonk, MA||1||0
+2019-01-03 23:09:51.180982||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Maynard, MA||0||1
+2019-01-03 23:09:51.207923||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Lawrence, MA||1||0
+2019-01-03 23:09:51.215284||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Seekonk, MA||0||1
+2019-01-03 23:09:51.249882||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Lawrence, MA||0||1
+2019-01-03 23:09:51.276048||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|New Castle, PA||1||0
+2019-01-03 23:09:51.283804||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|New Castle, PA||0||1
+2019-01-03 23:09:51.323339||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Scituate, MA||0||1
+2019-01-03 23:09:51.359615||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Scituate, MA||1||0
+2019-01-03 23:09:51.435934||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Fayette City, PA||1||0
+2019-01-03 23:09:51.472922||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Barnstable, MA||1||0
+2019-01-03 23:09:51.504053||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Bourne, MA||1||0
+2019-01-03 23:09:51.538136||measurement||ad||2019-01-03 23:09:50.328795@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Crafton, PA||1||0
+2019-01-03 23:09:51.538202||measurement||loadtime||0:00:07.941762||1||0
+2019-01-03 23:09:51.538234||event||progress-marker||measurement-end||1||0
+2019-01-03 23:09:52.393007||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Fayette City, PA||0||1
+2019-01-03 23:09:52.421432||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Barnstable, MA||0||1
+2019-01-03 23:09:52.447815||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Bourne, MA||0||1
+2019-01-03 23:09:52.475713||measurement||ad||2019-01-03 23:09:49.309385@|Uber Driver Partner - Suppliment your Income
+@|Uber
+                                    
+
+                                    @|Crafton, PA||0||1
+2019-01-03 23:09:52.475778||measurement||loadtime||0:00:08.742100||0||1
+2019-01-03 23:09:52.475805||event||progress-marker||measurement-end||0||1
+2019-01-03 23:09:56.800047||meta||block_id end||0
+2019-01-03 23:09:56.802803||meta||block_id start||1
+2019-01-03 23:09:56.802934||meta||assignment||0@|1
+2019-01-03 23:10:02.355516||event||progress-marker||training-start||1||1
+2019-01-03 23:10:02.355598||event||progress-marker||training-end||1||1
+2019-01-03 23:10:02.460686||event||progress-marker||training-start||0||0
+2019-01-03 23:10:02.460776||event||progress-marker||training-end||0||0
+2019-01-03 23:10:05.241283||meta||block_id end||1

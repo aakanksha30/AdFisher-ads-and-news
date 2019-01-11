@@ -1,0 +1,54 @@
+2019-01-02 02:59:02.187146||meta||agents||4
+2019-01-02 02:59:02.187204||meta||treatnames||control (female)@|experimental (male)
+2019-01-02 02:59:02.187368||meta||block_id start||0
+2019-01-02 02:59:02.187393||meta||assignment||0@|2@|1@|3
+2019-01-02 02:59:08.207212||event||progress-marker||training-start||1||1
+2019-01-02 02:59:08.418420||event||progress-marker||training-start||2||0
+2019-01-02 02:59:09.240889||event||progress-marker||training-start||3||1
+2019-01-02 02:59:09.740066||event||progress-marker||training-start||0||0
+2019-01-02 02:59:13.283632||event||progress-marker||training-end||3||1
+2019-01-02 02:59:14.322697||event||progress-marker||training-end||1||1
+2019-01-02 02:59:14.833289||event||progress-marker||training-end||2||0
+2019-01-02 02:59:15.896237||event||progress-marker||training-end||0||0
+2019-01-02 02:59:18.287871||event||progress-marker||measurement-start||3||1
+2019-01-02 02:59:19.327448||event||progress-marker||measurement-start||1||1
+2019-01-02 02:59:19.837513||event||progress-marker||measurement-start||2||0
+2019-01-02 02:59:20.904195||event||progress-marker||measurement-start||0||0
+2019-01-02 02:59:28.800073||measurement||loadtime||0:00:00.508500||3||1
+2019-01-02 02:59:29.894127||measurement||loadtime||0:00:00.558440||1||1
+2019-01-02 02:59:30.347919||measurement||loadtime||0:00:00.500537||2||0
+2019-01-02 02:59:31.447163||measurement||loadtime||0:00:00.535726||0||0
+2019-01-02 02:59:39.389620||measurement||loadtime||0:00:00.580734||3||1
+2019-01-02 02:59:39.389678||event||progress-marker||measurement-end||3||1
+2019-01-02 02:59:40.619939||measurement||loadtime||0:00:00.716873||1||1
+2019-01-02 02:59:40.619999||event||progress-marker||measurement-end||1||1
+2019-01-02 02:59:40.890043||measurement||loadtime||0:00:00.534654||2||0
+2019-01-02 02:59:40.890100||event||progress-marker||measurement-end||2||0
+2019-01-02 02:59:42.324791||meta||block_id end||0
+2019-01-02 02:59:42.324954||meta||block_id start||1
+2019-01-02 02:59:42.324971||meta||assignment||3@|2@|0@|1
+2019-01-02 02:59:48.602591||event||progress-marker||training-start||2||0
+2019-01-02 02:59:50.947840||event||progress-marker||training-start||1||1
+2019-01-02 02:59:50.964229||event||progress-marker||training-start||0||1
+2019-01-02 02:59:51.173879||event||progress-marker||training-start||3||0
+2019-01-02 02:59:52.322954||event||progress-marker||training-end||2||0
+2019-01-02 02:59:55.502703||event||progress-marker||training-end||1||1
+2019-01-02 02:59:55.616564||event||progress-marker||training-end||0||1
+2019-01-02 02:59:56.763372||event||progress-marker||training-end||3||0
+2019-01-02 02:59:57.328322||event||progress-marker||measurement-start||2||0
+2019-01-02 03:00:00.508659||event||progress-marker||measurement-start||1||1
+2019-01-02 03:00:00.622214||event||progress-marker||measurement-start||0||1
+2019-01-02 03:00:01.769805||event||progress-marker||measurement-start||3||0
+2019-01-02 03:00:07.902522||measurement||loadtime||0:00:00.563105||2||0
+2019-01-02 03:00:11.206008||measurement||loadtime||0:00:00.574119||0||1
+2019-01-02 03:00:11.227205||measurement||loadtime||0:00:00.707750||1||1
+2019-01-02 03:00:12.271236||measurement||loadtime||0:00:00.491826||3||0
+2019-01-02 03:00:18.434648||measurement||loadtime||0:00:00.530931||2||0
+2019-01-02 03:00:18.434692||event||progress-marker||measurement-end||2||0
+2019-01-02 03:00:21.804742||measurement||loadtime||0:00:00.567902||1||1
+2019-01-02 03:00:21.804803||event||progress-marker||measurement-end||1||1
+2019-01-02 03:00:21.822528||measurement||loadtime||0:00:00.607032||0||1
+2019-01-02 03:00:21.822583||event||progress-marker||measurement-end||0||1
+2019-01-02 03:00:22.807382||measurement||loadtime||0:00:00.526010||3||0
+2019-01-02 03:00:22.807427||event||progress-marker||measurement-end||3||0
+2019-01-02 03:00:24.198008||meta||block_id end||1

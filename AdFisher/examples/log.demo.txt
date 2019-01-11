@@ -1,0 +1,17 @@
+2019-01-02 14:05:31.625590||meta||agents||2
+2019-01-02 14:05:31.625640||meta||treatnames||control@|experimental
+2019-01-02 14:05:31.625771||meta||block_id start||0
+2019-01-02 14:05:31.625784||meta||assignment||1@|0
+2019-01-02 14:05:36.367138||event||progress-marker||training-start||1||0
+2019-01-02 14:05:36.367223||event||progress-marker||training-end||1||0
+2019-01-02 14:05:36.522596||event||progress-marker||training-start||0||1
+2019-01-02 14:05:36.522657||event||progress-marker||training-end||0||1
+2019-01-02 14:05:41.373261||event||progress-marker||measurement-start||1||0
+2019-01-02 14:05:41.528651||event||progress-marker||measurement-start||0||1
+2019-01-02 14:06:51.418389||error||collecting ads||Error||1||0
+2019-01-02 14:06:51.554174||error||collecting ads||Error||0||1
+2019-01-02 14:08:01.440021||error||collecting ads||Error||1||0
+2019-01-02 14:08:01.440073||event||progress-marker||measurement-end||1||0
+2019-01-02 14:08:01.577018||error||collecting ads||Error||0||1
+2019-01-02 14:08:01.577077||event||progress-marker||measurement-end||0||1
+2019-01-02 14:08:02.674639||meta||block_id end||0

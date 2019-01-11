@@ -1,0 +1,6 @@
+.DS_store
+*.pyc
+*~
+.vagrant
+easylist.txt
+log_*

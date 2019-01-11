@@ -1,0 +1,58 @@
+2019-01-02 02:43:27.693486||meta||agents||4
+2019-01-02 02:43:27.693665||meta||treatnames||control@|experimental
+2019-01-02 02:43:27.694091||meta||block_id start||0
+2019-01-02 02:43:27.694164||meta||assignment||2@|0@|1@|3
+2019-01-02 02:43:34.113476||event||progress-marker||training-start||0||0
+2019-01-02 02:43:34.113566||event||progress-marker||training-end||0||0
+2019-01-02 02:43:34.116788||event||progress-marker||training-start||2||0
+2019-01-02 02:43:34.116913||event||progress-marker||training-end||2||0
+2019-01-02 02:43:36.035984||event||progress-marker||training-start||3||1
+2019-01-02 02:43:36.036067||event||progress-marker||training-end||3||1
+2019-01-02 02:43:36.099751||event||progress-marker||training-start||1||1
+2019-01-02 02:43:36.099850||event||progress-marker||training-end||1||1
+2019-01-02 02:43:39.116030||event||progress-marker||measurement-start||0||0
+2019-01-02 02:43:39.121985||event||progress-marker||measurement-start||2||0
+2019-01-02 02:43:41.040879||event||progress-marker||measurement-start||3||1
+2019-01-02 02:43:41.103602||event||progress-marker||measurement-start||1||1
+2019-01-02 02:44:17.692434||measurement||loadtime||0:00:18.557456||2||0
+2019-01-02 02:44:19.157817||measurement||loadtime||0:00:20.031795||0||0
+2019-01-02 02:44:19.252128||measurement||loadtime||0:00:18.192598||3||1
+2019-01-02 02:44:19.542769||measurement||loadtime||0:00:18.419277||1||1
+2019-01-02 02:44:50.196443||measurement||loadtime||0:00:12.486331||2||0
+2019-01-02 02:44:50.196517||event||progress-marker||measurement-end||2||0
+2019-01-02 02:44:52.064263||measurement||loadtime||0:00:12.501471||1||1
+2019-01-02 02:44:52.064339||event||progress-marker||measurement-end||1||1
+2019-01-02 02:44:52.093904||measurement||loadtime||0:00:12.822527||3||1
+2019-01-02 02:44:52.094046||event||progress-marker||measurement-end||3||1
+2019-01-02 02:44:52.265646||measurement||loadtime||0:00:13.086703||0||0
+2019-01-02 02:44:52.265696||event||progress-marker||measurement-end||0||0
+2019-01-02 02:44:53.663493||meta||block_id end||0
+2019-01-02 02:44:53.663660||meta||block_id start||1
+2019-01-02 02:44:53.663674||meta||assignment||3@|2@|0@|1
+2019-01-02 02:45:01.193741||event||progress-marker||training-start||3||0
+2019-01-02 02:45:01.194139||event||progress-marker||training-end||3||0
+2019-01-02 02:45:01.611960||event||progress-marker||training-start||1||1
+2019-01-02 02:45:01.612047||event||progress-marker||training-end||1||1
+2019-01-02 02:45:01.750062||event||progress-marker||training-start||0||1
+2019-01-02 02:45:01.750157||event||progress-marker||training-end||0||1
+2019-01-02 02:45:02.101756||event||progress-marker||training-start||2||0
+2019-01-02 02:45:02.101819||event||progress-marker||training-end||2||0
+2019-01-02 02:45:06.196813||event||progress-marker||measurement-start||3||0
+2019-01-02 02:45:06.617659||event||progress-marker||measurement-start||1||1
+2019-01-02 02:45:06.756723||event||progress-marker||measurement-start||0||1
+2019-01-02 02:45:07.104737||event||progress-marker||measurement-start||2||0
+2019-01-02 02:45:42.517847||measurement||loadtime||0:00:15.741520||0||1
+2019-01-02 02:45:42.602319||measurement||loadtime||0:00:15.478776||2||0
+2019-01-02 02:45:42.775080||measurement||loadtime||0:00:16.139537||1||1
+2019-01-02 02:45:45.276995||measurement||loadtime||0:00:19.066637||3||0
+2019-01-02 02:46:15.433726||measurement||loadtime||0:00:12.898279||0||1
+2019-01-02 02:46:15.433796||event||progress-marker||measurement-end||0||1
+2019-01-02 02:46:15.674668||measurement||loadtime||0:00:12.879975||1||1
+2019-01-02 02:46:15.674779||event||progress-marker||measurement-end||1||1
+2019-01-02 02:46:15.748519||measurement||ad||Galaxy Enclave - The Urban Village@|Galaxy Realmart Pvt Ltd@|Ajmer Road@|3 BHK Villas  Plots@|17.9 Lac onwardsSee Details||2||0
+2019-01-02 02:46:15.843221||measurement||ad||Aananda@|Manglam Build Developers Ltd@|Mansarover@|2, 3, 4 BHK Flats@|35.2 Lac onwardsSee Details||2||0
+2019-01-02 02:46:15.843283||measurement||loadtime||0:00:13.220760||2||0
+2019-01-02 02:46:15.843321||event||progress-marker||measurement-end||2||0
+2019-01-02 02:46:17.859484||measurement||loadtime||0:00:12.564069||3||0
+2019-01-02 02:46:17.859567||event||progress-marker||measurement-end||3||0
+2019-01-02 02:46:18.889555||meta||block_id end||1

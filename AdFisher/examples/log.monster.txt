@@ -1,0 +1,548 @@
+2019-01-01 16:42:21.003799||meta||agents||2
+2019-01-01 16:42:21.003953||meta||treatnames||female@|male
+2019-01-01 16:42:21.004320||meta||block_id start||0
+2019-01-01 16:42:21.004395||meta||assignment||1@|0
+2019-01-01 16:42:25.522633||event||progress-marker||training-start||0||1
+2019-01-01 16:42:25.620386||event||progress-marker||training-start||1||0
+2019-01-01 16:42:36.391420||treatment||visit website||http://freeembroiderystuff.com||1||0
+2019-01-01 16:42:52.267339||treatment||visit website||http://nancysnotions.com||1||0
+2019-01-01 16:42:52.267552||event||progress-marker||training-end||1||0
+2019-01-01 16:43:05.568010||error||website timeout||http://artofmanliness.com||0||1
+2019-01-01 16:43:45.602440||error||website timeout||http://batman-news.com||0||1
+2019-01-01 16:43:45.603580||event||progress-marker||training-end||0||1
+2019-01-01 16:43:47.315533||event||progress-marker||measurement-start||1||0
+2019-01-01 16:43:50.609982||event||progress-marker||measurement-start||0||1
+2019-01-01 16:44:04.347220||measurement||ad||2019-01-01 16:44:04.239892@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Havertown, PA||0||1
+2019-01-01 16:44:04.388050||measurement||ad||2019-01-01 16:44:04.239892@|RN - Pediatrics, Days
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:04.446801||measurement||ad||2019-01-01 16:44:04.239892@|RNs, Registered Nurse
+@|Kindred Healthcare
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:04.491143||measurement||ad||2019-01-01 16:44:04.239892@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Pittsburgh, PA||0||1
+2019-01-01 16:44:04.565542||measurement||ad||2019-01-01 16:44:04.239892@|Customer Service Representative
+@|Alorica
+                                    
+
+                                    @|Waco, MO||0||1
+2019-01-01 16:44:04.623551||measurement||ad||2019-01-01 16:44:04.239892@|Denture Laboratory/ Lab Technician - Thomaston
+@|Aspen Dental
+                                    
+
+                                    @|Thomaston, ME||0||1
+2019-01-01 16:44:04.719981||measurement||ad||2019-01-01 16:44:04.239892@|RN Practitioner or Physician Assistant -Occupational Medicine - Colorado Springs
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||0||1
+2019-01-01 16:44:04.886514||measurement||ad||2019-01-01 16:44:04.239892@|RN Charge Nurse- Pediatric ICU
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:04.962395||measurement||ad||2019-01-01 16:44:04.239892@|Cosmetologist
+@|The Beautiful Group
+                                    
+
+                                    @|Columbia, MO||0||1
+2019-01-01 16:44:05.000610||measurement||ad||2019-01-01 16:44:04.239892@|Uber Driver Partner - Supplement Your Cashier Income
+@|Uber
+                                    
+
+                                    @|Anaheim, CA||0||1
+2019-01-01 16:44:05.037859||measurement||ad||2019-01-01 16:44:04.239892@|Driver OTR
+@|Transervice
+                                    
+
+                                    @|Madison, WI||0||1
+2019-01-01 16:44:05.073091||measurement||ad||2019-01-01 16:44:04.239892@|Salon Opening
+@|Regis Franchise
+                                    
+
+                                    @|Middletown, DE||0||1
+2019-01-01 16:44:05.115365||measurement||ad||2019-01-01 16:44:04.239892@|ICU RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:05.153877||measurement||ad||2019-01-01 16:44:04.239892@|Registered Nurse ICU Full Time Days (Sa, Mo, Tu)
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||0||1
+2019-01-01 16:44:05.224436||measurement||ad||2019-01-01 16:44:04.239892@|Call Center Position Available
+@|Alorica
+                                    
+
+                                    @|Purcell, MO||0||1
+2019-01-01 16:44:05.310465||measurement||ad||2019-01-01 16:44:04.239892@|Denture Laboratory/ Lab Technician - Jacksonville/River City
+@|Aspen Dental
+                                    
+
+                                    @|Jacksonville, FL||0||1
+2019-01-01 16:44:05.346705||measurement||ad||2019-01-01 16:44:04.239892@|OB/GYN - Physician
+@|Centura Health
+                                    
+
+                                    @|FRISCO, CO||0||1
+2019-01-01 16:44:05.379343||measurement||ad||2019-01-01 16:44:04.239892@|RN, Registered Nurse- Med/Surg
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:05.413025||measurement||ad||2019-01-01 16:44:04.239892@|Certified Nursing Assistant - CNA
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||0||1
+2019-01-01 16:44:05.452215||measurement||ad||2019-01-01 16:44:04.239892@|Hairstylist
+@|The Beautiful Group
+                                    
+
+                                    @|Asheville, NC||0||1
+2019-01-01 16:44:05.485874||measurement||ad||2019-01-01 16:44:04.239892@|Uber Driver Partner - Supplement Your Warehouse Income
+@|Uber
+                                    
+
+                                    @|Santa Ana, CA||0||1
+2019-01-01 16:44:05.518713||measurement||ad||2019-01-01 16:44:04.239892@|Diesel Mechanic/Technician
+@|Transervice
+                                    
+
+                                    @|Jersey City, NJ||0||1
+2019-01-01 16:44:05.551658||measurement||ad||2019-01-01 16:44:04.239892@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Bordentown, NJ||0||1
+2019-01-01 16:44:05.586612||measurement||ad||2019-01-01 16:44:04.239892@|OR RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:05.619025||measurement||ad||2019-01-01 16:44:04.239892@|Customer Service Position Available
+@|Alorica
+                                    
+
+                                    @|Napoleon, MI||0||1
+2019-01-01 16:44:05.619086||measurement||loadtime||0:00:13.007204||0||1
+2019-01-01 16:44:07.520106||measurement||ad||2019-01-01 16:44:07.441780@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Havertown, PA||1||0
+2019-01-01 16:44:07.566634||measurement||ad||2019-01-01 16:44:07.441780@|RN - Pediatrics, Days
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:07.604853||measurement||ad||2019-01-01 16:44:07.441780@|RNs, Registered Nurse
+@|Kindred Healthcare
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:07.669284||measurement||ad||2019-01-01 16:44:07.441780@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Pittsburgh, PA||1||0
+2019-01-01 16:44:07.732744||measurement||ad||2019-01-01 16:44:07.441780@|Customer Service Representative
+@|Alorica
+                                    
+
+                                    @|Waco, MO||1||0
+2019-01-01 16:44:07.782017||measurement||ad||2019-01-01 16:44:07.441780@|Denture Laboratory/ Lab Technician - Thomaston
+@|Aspen Dental
+                                    
+
+                                    @|Thomaston, ME||1||0
+2019-01-01 16:44:07.815766||measurement||ad||2019-01-01 16:44:07.441780@|RN Practitioner or Physician Assistant -Occupational Medicine - Colorado Springs
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||1||0
+2019-01-01 16:44:07.864448||measurement||ad||2019-01-01 16:44:07.441780@|RN Charge Nurse- Pediatric ICU
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:07.901729||measurement||ad||2019-01-01 16:44:07.441780@|Cosmetologist
+@|The Beautiful Group
+                                    
+
+                                    @|Columbia, MO||1||0
+2019-01-01 16:44:07.934277||measurement||ad||2019-01-01 16:44:07.441780@|Uber Driver Partner - Supplement Your Cashier Income
+@|Uber
+                                    
+
+                                    @|Anaheim, CA||1||0
+2019-01-01 16:44:07.970098||measurement||ad||2019-01-01 16:44:07.441780@|Driver OTR
+@|Transervice
+                                    
+
+                                    @|Madison, WI||1||0
+2019-01-01 16:44:08.007690||measurement||ad||2019-01-01 16:44:07.441780@|Salon Opening
+@|Regis Franchise
+                                    
+
+                                    @|Middletown, DE||1||0
+2019-01-01 16:44:08.041925||measurement||ad||2019-01-01 16:44:07.441780@|ICU RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:08.073311||measurement||ad||2019-01-01 16:44:07.441780@|Registered Nurse ICU Full Time Days (Sa, Mo, Tu)
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||1||0
+2019-01-01 16:44:08.107619||measurement||ad||2019-01-01 16:44:07.441780@|Call Center Position Available
+@|Alorica
+                                    
+
+                                    @|Purcell, MO||1||0
+2019-01-01 16:44:08.143713||measurement||ad||2019-01-01 16:44:07.441780@|Denture Laboratory/ Lab Technician - Jacksonville/River City
+@|Aspen Dental
+                                    
+
+                                    @|Jacksonville, FL||1||0
+2019-01-01 16:44:08.181252||measurement||ad||2019-01-01 16:44:07.441780@|OB/GYN - Physician
+@|Centura Health
+                                    
+
+                                    @|FRISCO, CO||1||0
+2019-01-01 16:44:08.215297||measurement||ad||2019-01-01 16:44:07.441780@|RN, Registered Nurse- Med/Surg
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:08.252083||measurement||ad||2019-01-01 16:44:07.441780@|Certified Nursing Assistant - CNA
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||1||0
+2019-01-01 16:44:08.283884||measurement||ad||2019-01-01 16:44:07.441780@|Hairstylist
+@|The Beautiful Group
+                                    
+
+                                    @|Asheville, NC||1||0
+2019-01-01 16:44:08.315724||measurement||ad||2019-01-01 16:44:07.441780@|Uber Driver Partner - Supplement Your Warehouse Income
+@|Uber
+                                    
+
+                                    @|Santa Ana, CA||1||0
+2019-01-01 16:44:08.347004||measurement||ad||2019-01-01 16:44:07.441780@|Diesel Mechanic/Technician
+@|Transervice
+                                    
+
+                                    @|Jersey City, NJ||1||0
+2019-01-01 16:44:08.379352||measurement||ad||2019-01-01 16:44:07.441780@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Bordentown, NJ||1||0
+2019-01-01 16:44:08.410101||measurement||ad||2019-01-01 16:44:07.441780@|OR RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:09.475471||measurement||ad||2019-01-01 16:44:07.441780@|Customer Service Position Available
+@|Alorica
+                                    
+
+                                    @|Napoleon, MI||1||0
+2019-01-01 16:44:09.475543||measurement||loadtime||0:00:20.158604||1||0
+2019-01-01 16:44:11.610468||measurement||ad||2019-01-01 16:44:11.511744@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Havertown, PA||0||1
+2019-01-01 16:44:11.655847||measurement||ad||2019-01-01 16:44:11.511744@|RN - Pediatrics, Days
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:11.692103||measurement||ad||2019-01-01 16:44:11.511744@|RNs, Registered Nurse
+@|Kindred Healthcare
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:11.735154||measurement||ad||2019-01-01 16:44:11.511744@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Pittsburgh, PA||0||1
+2019-01-01 16:44:11.770726||measurement||ad||2019-01-01 16:44:11.511744@|Customer Service Representative
+@|Alorica
+                                    
+
+                                    @|Waco, MO||0||1
+2019-01-01 16:44:11.813106||measurement||ad||2019-01-01 16:44:11.511744@|Denture Laboratory/ Lab Technician - Thomaston
+@|Aspen Dental
+                                    
+
+                                    @|Thomaston, ME||0||1
+2019-01-01 16:44:11.850784||measurement||ad||2019-01-01 16:44:11.511744@|RN Practitioner or Physician Assistant -Occupational Medicine - Colorado Springs
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||0||1
+2019-01-01 16:44:11.885688||measurement||ad||2019-01-01 16:44:11.511744@|RN Charge Nurse- Pediatric ICU
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:11.918575||measurement||ad||2019-01-01 16:44:11.511744@|Cosmetologist
+@|The Beautiful Group
+                                    
+
+                                    @|Columbia, MO||0||1
+2019-01-01 16:44:11.970340||measurement||ad||2019-01-01 16:44:11.511744@|Uber Driver Partner - Supplement Your Cashier Income
+@|Uber
+                                    
+
+                                    @|Anaheim, CA||0||1
+2019-01-01 16:44:12.003769||measurement||ad||2019-01-01 16:44:11.511744@|Driver OTR
+@|Transervice
+                                    
+
+                                    @|Madison, WI||0||1
+2019-01-01 16:44:12.038289||measurement||ad||2019-01-01 16:44:11.511744@|Salon Opening
+@|Regis Franchise
+                                    
+
+                                    @|Middletown, DE||0||1
+2019-01-01 16:44:12.081472||measurement||ad||2019-01-01 16:44:11.511744@|ICU RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:12.113056||measurement||ad||2019-01-01 16:44:11.511744@|Registered Nurse ICU Full Time Days (Sa, Mo, Tu)
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||0||1
+2019-01-01 16:44:12.146286||measurement||ad||2019-01-01 16:44:11.511744@|Call Center Position Available
+@|Alorica
+                                    
+
+                                    @|Purcell, MO||0||1
+2019-01-01 16:44:12.198122||measurement||ad||2019-01-01 16:44:11.511744@|Denture Laboratory/ Lab Technician - Jacksonville/River City
+@|Aspen Dental
+                                    
+
+                                    @|Jacksonville, FL||0||1
+2019-01-01 16:44:12.236038||measurement||ad||2019-01-01 16:44:11.511744@|OB/GYN - Physician
+@|Centura Health
+                                    
+
+                                    @|FRISCO, CO||0||1
+2019-01-01 16:44:12.283063||measurement||ad||2019-01-01 16:44:11.511744@|RN, Registered Nurse- Med/Surg
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||0||1
+2019-01-01 16:44:12.322157||measurement||ad||2019-01-01 16:44:11.511744@|Certified Nursing Assistant - CNA
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||0||1
+2019-01-01 16:44:12.388018||measurement||ad||2019-01-01 16:44:11.511744@|Hairstylist
+@|The Beautiful Group
+                                    
+
+                                    @|Asheville, NC||0||1
+2019-01-01 16:44:12.426156||measurement||ad||2019-01-01 16:44:11.511744@|Uber Driver Partner - Supplement Your Warehouse Income
+@|Uber
+                                    
+
+                                    @|Santa Ana, CA||0||1
+2019-01-01 16:44:12.487227||measurement||ad||2019-01-01 16:44:11.511744@|Diesel Mechanic/Technician
+@|Transervice
+                                    
+
+                                    @|Jersey City, NJ||0||1
+2019-01-01 16:44:12.528344||measurement||ad||2019-01-01 16:44:11.511744@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Bordentown, NJ||0||1
+2019-01-01 16:44:12.579418||measurement||ad||2019-01-01 16:44:11.511744@|OR RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||0||1
+2019-01-01 16:44:12.651844||measurement||ad||2019-01-01 16:44:11.511744@|Customer Service Position Available
+@|Alorica
+                                    
+
+                                    @|Napoleon, MI||0||1
+2019-01-01 16:44:12.651907||measurement||loadtime||0:00:05.030740||0||1
+2019-01-01 16:44:12.651928||event||progress-marker||measurement-end||0||1
+2019-01-01 16:44:16.412140||measurement||ad||2019-01-01 16:44:16.312277@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Havertown, PA||1||0
+2019-01-01 16:44:16.451943||measurement||ad||2019-01-01 16:44:16.312277@|RN - Pediatrics, Days
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:16.484115||measurement||ad||2019-01-01 16:44:16.312277@|RNs, Registered Nurse
+@|Kindred Healthcare
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:16.518702||measurement||ad||2019-01-01 16:44:16.312277@|Licensed Practical Nurse - LPN
+@|HCR ManorCare
+                                    
+
+                                    @|Pittsburgh, PA||1||0
+2019-01-01 16:44:16.552794||measurement||ad||2019-01-01 16:44:16.312277@|Customer Service Representative
+@|Alorica
+                                    
+
+                                    @|Waco, MO||1||0
+2019-01-01 16:44:16.594577||measurement||ad||2019-01-01 16:44:16.312277@|Denture Laboratory/ Lab Technician - Thomaston
+@|Aspen Dental
+                                    
+
+                                    @|Thomaston, ME||1||0
+2019-01-01 16:44:16.626142||measurement||ad||2019-01-01 16:44:16.312277@|RN Practitioner or Physician Assistant -Occupational Medicine - Colorado Springs
+@|Centura Health
+                                    
+
+                                    @|Colorado Springs, CO||1||0
+2019-01-01 16:44:16.658654||measurement||ad||2019-01-01 16:44:16.312277@|RN Charge Nurse- Pediatric ICU
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:16.698247||measurement||ad||2019-01-01 16:44:16.312277@|Cosmetologist
+@|The Beautiful Group
+                                    
+
+                                    @|Columbia, MO||1||0
+2019-01-01 16:44:16.730645||measurement||ad||2019-01-01 16:44:16.312277@|Uber Driver Partner - Supplement Your Cashier Income
+@|Uber
+                                    
+
+                                    @|Anaheim, CA||1||0
+2019-01-01 16:44:16.760777||measurement||ad||2019-01-01 16:44:16.312277@|Driver OTR
+@|Transervice
+                                    
+
+                                    @|Madison, WI||1||0
+2019-01-01 16:44:16.816533||measurement||ad||2019-01-01 16:44:16.312277@|Salon Opening
+@|Regis Franchise
+                                    
+
+                                    @|Middletown, DE||1||0
+2019-01-01 16:44:16.853713||measurement||ad||2019-01-01 16:44:16.312277@|ICU RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:16.934428||measurement||ad||2019-01-01 16:44:16.312277@|Registered Nurse ICU Full Time Days (Sa, Mo, Tu)
+@|Kindred Healthcare
+                                    
+
+                                    @|Las Vegas, NV||1||0
+2019-01-01 16:44:16.976480||measurement||ad||2019-01-01 16:44:16.312277@|Call Center Position Available
+@|Alorica
+                                    
+
+                                    @|Purcell, MO||1||0
+2019-01-01 16:44:17.052043||measurement||ad||2019-01-01 16:44:16.312277@|Denture Laboratory/ Lab Technician - Jacksonville/River City
+@|Aspen Dental
+                                    
+
+                                    @|Jacksonville, FL||1||0
+2019-01-01 16:44:17.094513||measurement||ad||2019-01-01 16:44:16.312277@|OB/GYN - Physician
+@|Centura Health
+                                    
+
+                                    @|FRISCO, CO||1||0
+2019-01-01 16:44:17.136090||measurement||ad||2019-01-01 16:44:16.312277@|RN, Registered Nurse- Med/Surg
+@|CHRISTUS Health
+                                    
+
+                                    @|San Antonio, TX||1||0
+2019-01-01 16:44:17.202718||measurement||ad||2019-01-01 16:44:16.312277@|Certified Nursing Assistant - CNA
+@|HCR ManorCare
+                                    
+
+                                    @|Venice, FL||1||0
+2019-01-01 16:44:17.247279||measurement||ad||2019-01-01 16:44:16.312277@|Hairstylist
+@|The Beautiful Group
+                                    
+
+                                    @|Asheville, NC||1||0
+2019-01-01 16:44:17.300662||measurement||ad||2019-01-01 16:44:16.312277@|Uber Driver Partner - Supplement Your Warehouse Income
+@|Uber
+                                    
+
+                                    @|Santa Ana, CA||1||0
+2019-01-01 16:44:17.349439||measurement||ad||2019-01-01 16:44:16.312277@|Diesel Mechanic/Technician
+@|Transervice
+                                    
+
+                                    @|Jersey City, NJ||1||0
+2019-01-01 16:44:17.402588||measurement||ad||2019-01-01 16:44:16.312277@|Hair Stylist
+@|Regis Franchise
+                                    
+
+                                    @|Bordentown, NJ||1||0
+2019-01-01 16:44:17.448908||measurement||ad||2019-01-01 16:44:16.312277@|OR RN, PRN, Central Staffing
+@|Memorial Hermann
+                                    
+
+                                    @|Houston, TX||1||0
+2019-01-01 16:44:17.499330||measurement||ad||2019-01-01 16:44:16.312277@|Customer Service Position Available
+@|Alorica
+                                    
+
+                                    @|Napoleon, MI||1||0
+2019-01-01 16:44:17.499408||measurement||loadtime||0:00:06.021801||1||0
+2019-01-01 16:44:17.499434||event||progress-marker||measurement-end||1||0
+2019-01-01 16:44:18.416978||meta||block_id end||0
+2019-01-01 16:44:18.417532||meta||block_id start||1
+2019-01-01 16:44:18.417622||meta||assignment||0@|1
+2019-01-01 16:44:23.067673||event||progress-marker||training-start||0||0
+2019-01-01 16:44:23.078640||event||progress-marker||training-start||1||1
+2019-01-01 16:44:36.143416||treatment||visit website||http://freeembroiderystuff.com||0||0
+2019-01-01 16:45:03.101046||error||website timeout||http://artofmanliness.com||1||1
+2019-01-01 16:45:16.192962||error||website timeout||http://nancysnotions.com||0||0
+2019-01-01 16:45:16.193027||event||progress-marker||training-end||0||0
+2019-01-01 16:45:43.139807||error||website timeout||http://batman-news.com||1||1
+2019-01-01 16:45:43.140166||event||progress-marker||training-end||1||1
+2019-01-01 16:45:44.404378||meta||block_id end||1
+2019-01-01 16:45:44.405074||meta||block_id start||2
+2019-01-01 16:45:44.405187||meta||assignment||1@|0
+2019-01-01 16:45:48.654008||event||progress-marker||training-start||0||1
+2019-01-01 16:45:50.644751||event||progress-marker||training-start||1||0
+2019-01-01 16:46:06.655979||treatment||visit website||http://freeembroiderystuff.com||1||0
+2019-01-01 16:46:28.719612||error||website timeout||http://artofmanliness.com||0||1
+2019-01-01 16:46:46.730672||error||website timeout||http://nancysnotions.com||1||0
+2019-01-01 16:46:46.731692||event||progress-marker||training-end||1||0
+2019-01-01 16:47:08.829356||error||website timeout||http://batman-news.com||0||1
+2019-01-01 16:47:08.830228||event||progress-marker||training-end||0||1
+2019-01-01 16:47:09.919954||meta||block_id end||2
+2019-01-01 16:47:09.920204||meta||block_id start||3
+2019-01-01 16:47:09.920248||meta||assignment||1@|0
+2019-01-01 16:47:14.874381||event||progress-marker||training-start||0||1
+2019-01-01 16:47:14.959676||event||progress-marker||training-start||1||0
+2019-01-01 16:47:27.715610||treatment||visit website||http://freeembroiderystuff.com||1||0

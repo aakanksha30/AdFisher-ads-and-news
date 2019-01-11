@@ -1,0 +1,51 @@
+2019-01-02 12:29:01.648669||meta||agents||4
+2019-01-02 12:29:01.664720||meta||treatnames||control@|experimental
+2019-01-02 12:29:01.664878||meta||block_id start||0
+2019-01-02 12:29:01.664891||meta||assignment||3@|1@|0@|2
+2019-01-02 12:29:20.163158||event||progress-marker||training-start||2||1
+2019-01-02 12:29:20.163158||event||progress-marker||training-start||3||0
+2019-01-02 12:29:20.163397||event||progress-marker||training-start||0||1
+2019-01-02 12:29:20.163730||event||progress-marker||training-start||1||0
+2019-01-02 12:29:26.010645||treatment||visit website||http://pregnancy.com||3||0
+2019-01-02 12:29:26.081347||treatment||visit website||http://pregnancy.com||2||1
+2019-01-02 12:29:26.141896||treatment||visit website||http://pregnancy.com||0||1
+2019-01-02 12:29:26.194610||treatment||visit website||http://pregnancy.com||1||0
+2019-01-02 12:29:31.504760||treatment||visit website||http://motherandbaby.co.uk||1||0
+2019-01-02 12:29:31.521269||treatment||visit website||http://motherandbaby.co.uk||2||1
+2019-01-02 12:29:31.595792||treatment||visit website||http://motherandbaby.co.uk||3||0
+2019-01-02 12:29:31.898462||treatment||visit website||http://motherandbaby.co.uk||0||1
+2019-01-02 12:29:36.728230||treatment||visit website||http://pregnancybirthbaby.org.au||1||0
+2019-01-02 12:29:36.826478||treatment||visit website||http://pregnancybirthbaby.org.au||3||0
+2019-01-02 12:29:37.130452||treatment||visit website||http://americanpregnancy.org/pregnancy-complications/miscarriage/||2||1
+2019-01-02 12:29:37.130452||treatment||visit website||http://americanpregnancy.org/pregnancy-complications/miscarriage/||0||1
+2019-01-02 12:29:41.906660||treatment||visit website||http://parenting.firstcry.com||1||0
+2019-01-02 12:29:41.906741||event||progress-marker||training-end||1||0
+2019-01-02 12:29:42.042464||treatment||visit website||http://parenting.firstcry.com||3||0
+2019-01-02 12:29:42.042556||event||progress-marker||training-end||3||0
+2019-01-02 12:29:42.489901||treatment||visit website||http://marchofdimes.org/complications/miscarriage.aspx||0||1
+2019-01-02 12:29:42.542789||treatment||visit website||http://marchofdimes.org/complications/miscarriage.aspx||2||1
+2019-01-02 12:29:47.769952||treatment||visit website||http://parents.com/pregnancy/complications/miscarriage/||0||1
+2019-01-02 12:29:47.890497||treatment||visit website||http://parents.com/pregnancy/complications/miscarriage/||2||1
+2019-01-02 12:29:53.232285||treatment||visit website||http://medlineplus.gov/miscarriage.html||0||1
+2019-01-02 12:29:53.239487||error||website timeout||http://||0||1
+2019-01-02 12:29:53.239549||event||progress-marker||training-end||0||1
+2019-01-02 12:29:53.295887||treatment||visit website||http://medlineplus.gov/miscarriage.html||2||1
+2019-01-02 12:29:53.302584||error||website timeout||http://||2||1
+2019-01-02 12:29:53.302636||event||progress-marker||training-end||2||1
+2019-01-02 12:29:56.918606||event||progress-marker||measurement-start||1||0
+2019-01-02 12:29:57.055361||event||progress-marker||measurement-start||3||0
+2019-01-02 12:29:58.243038||event||progress-marker||measurement-start||0||1
+2019-01-02 12:29:58.303536||event||progress-marker||measurement-start||2||1
+2019-01-02 12:31:01.932718||error||collecting ads||Error||1||0
+2019-01-02 12:31:02.066929||error||collecting ads||Error||3||0
+2019-01-02 12:31:03.258833||error||collecting ads||Error||0||1
+2019-01-02 12:31:03.319432||error||collecting ads||Error||2||1
+2019-01-02 12:32:06.950444||error||collecting ads||Error||1||0
+2019-01-02 12:32:06.950496||event||progress-marker||measurement-end||1||0
+2019-01-02 12:32:07.087971||error||collecting ads||Error||3||0
+2019-01-02 12:32:07.088039||event||progress-marker||measurement-end||3||0
+2019-01-02 12:32:08.276335||error||collecting ads||Error||0||1
+2019-01-02 12:32:08.276420||event||progress-marker||measurement-end||0||1
+2019-01-02 12:32:08.338993||error||collecting ads||Error||2||1
+2019-01-02 12:32:08.339071||event||progress-marker||measurement-end||2||1
+2019-01-02 12:32:08.496296||meta||block_id end||0
